@@ -1,0 +1,4 @@
+git status
+git add doc/Design_Patterns.pdf
+git commit -m "Adiciona documento de design patterns"
+git push origin main
